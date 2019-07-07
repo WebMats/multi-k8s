@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <header className="App-header">
-          <h1>Fib Calculator, Kubernetes Section</h1>
+          <h1>Fib Calculator, Kubernetes Gcloud!</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
